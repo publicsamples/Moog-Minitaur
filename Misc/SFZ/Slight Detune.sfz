@@ -1,0 +1,100 @@
+// this file was generated from Slight Detune.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=1 hikey=24 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=371 end=89792 sample=../Audio/Slight Detune/Slight Detune-24-127.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=296 end=88584 sample=../Audio/Slight Detune/Slight Detune-25-127.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=339 end=89846 sample=../Audio/Slight Detune/Slight Detune-26-127.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=312 end=89284 sample=../Audio/Slight Detune/Slight Detune-27-127.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=116 end=89035 sample=../Audio/Slight Detune/Slight Detune-28-127.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=516 end=89088 sample=../Audio/Slight Detune/Slight Detune-29-127.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=565 end=89257 sample=../Audio/Slight Detune/Slight Detune-30-127.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=596 end=89086 sample=../Audio/Slight Detune/Slight Detune-31-127.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=132 end=88742 sample=../Audio/Slight Detune/Slight Detune-32-127.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=166 end=88457 sample=../Audio/Slight Detune/Slight Detune-33-127.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=369 end=89001 sample=../Audio/Slight Detune/Slight Detune-34-127.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=584 end=89139 sample=../Audio/Slight Detune/Slight Detune-35-127.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=247 end=89331 sample=../Audio/Slight Detune/Slight Detune-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=353 end=89052 sample=../Audio/Slight Detune/Slight Detune-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=98 end=88494 sample=../Audio/Slight Detune/Slight Detune-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=524 end=88907 sample=../Audio/Slight Detune/Slight Detune-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=513 end=89358 sample=../Audio/Slight Detune/Slight Detune-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=518 end=89240 sample=../Audio/Slight Detune/Slight Detune-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=517 sample=../Audio/Slight Detune/Slight Detune-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=512 end=89010 sample=../Audio/Slight Detune/Slight Detune-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=287 end=89142 sample=../Audio/Slight Detune/Slight Detune-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=153 end=89033 sample=../Audio/Slight Detune/Slight Detune-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=534 end=89367 sample=../Audio/Slight Detune/Slight Detune-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=453 end=88733 sample=../Audio/Slight Detune/Slight Detune-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=231 end=88916 sample=../Audio/Slight Detune/Slight Detune-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=178 end=88990 sample=../Audio/Slight Detune/Slight Detune-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=417 end=89143 sample=../Audio/Slight Detune/Slight Detune-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=446 end=89389 sample=../Audio/Slight Detune/Slight Detune-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=595 end=89436 sample=../Audio/Slight Detune/Slight Detune-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=530 end=88851 sample=../Audio/Slight Detune/Slight Detune-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=390 end=89037 sample=../Audio/Slight Detune/Slight Detune-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=364 end=89110 sample=../Audio/Slight Detune/Slight Detune-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=541 end=88986 sample=../Audio/Slight Detune/Slight Detune-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=475 end=88832 sample=../Audio/Slight Detune/Slight Detune-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=405 end=89088 sample=../Audio/Slight Detune/Slight Detune-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=553 end=88885 sample=../Audio/Slight Detune/Slight Detune-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=456 end=88764 sample=../Audio/Slight Detune/Slight Detune-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=482 end=88728 sample=../Audio/Slight Detune/Slight Detune-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=502 end=88320 sample=../Audio/Slight Detune/Slight Detune-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=589 end=89101 sample=../Audio/Slight Detune/Slight Detune-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=469 end=88892 sample=../Audio/Slight Detune/Slight Detune-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=498 end=89225 sample=../Audio/Slight Detune/Slight Detune-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=282 sample=../Audio/Slight Detune/Slight Detune-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=416 end=88984 sample=../Audio/Slight Detune/Slight Detune-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=499 end=89103 sample=../Audio/Slight Detune/Slight Detune-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=117 sample=../Audio/Slight Detune/Slight Detune-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=268 end=88729 sample=../Audio/Slight Detune/Slight Detune-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=182 end=86912 sample=../Audio/Slight Detune/Slight Detune-71-127.aif
+<group>lokey=72 hikey=114 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=398 end=88192 sample=../Audio/Slight Detune/Slight Detune-72-127.aif

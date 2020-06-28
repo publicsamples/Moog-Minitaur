@@ -1,0 +1,100 @@
+// this file was generated from Simple Saw.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=274 end=65340 sample=../Audio/Simple Saw/Simple Saw-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=491 end=65915 sample=../Audio/Simple Saw/Simple Saw-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=458 sample=../Audio/Simple Saw/Simple Saw-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=254 end=64215 sample=../Audio/Simple Saw/Simple Saw-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=336 end=64600 sample=../Audio/Simple Saw/Simple Saw-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=404 sample=../Audio/Simple Saw/Simple Saw-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=292 end=62228 sample=../Audio/Simple Saw/Simple Saw-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=600 end=64244 sample=../Audio/Simple Saw/Simple Saw-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=437 end=63597 sample=../Audio/Simple Saw/Simple Saw-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=294 end=63020 sample=../Audio/Simple Saw/Simple Saw-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=156 end=63998 sample=../Audio/Simple Saw/Simple Saw-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=500 end=64041 sample=../Audio/Simple Saw/Simple Saw-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=173 end=63097 sample=../Audio/Simple Saw/Simple Saw-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=509 end=64548 sample=../Audio/Simple Saw/Simple Saw-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=212 end=63787 sample=../Audio/Simple Saw/Simple Saw-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=144 end=63802 sample=../Audio/Simple Saw/Simple Saw-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=571 sample=../Audio/Simple Saw/Simple Saw-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=476 sample=../Audio/Simple Saw/Simple Saw-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=285 sample=../Audio/Simple Saw/Simple Saw-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=475 end=63844 sample=../Audio/Simple Saw/Simple Saw-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=498 end=63214 sample=../Audio/Simple Saw/Simple Saw-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=471 sample=../Audio/Simple Saw/Simple Saw-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=636 sample=../Audio/Simple Saw/Simple Saw-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=561 end=63089 sample=../Audio/Simple Saw/Simple Saw-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=631 end=63869 sample=../Audio/Simple Saw/Simple Saw-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=227 sample=../Audio/Simple Saw/Simple Saw-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=297 end=62704 sample=../Audio/Simple Saw/Simple Saw-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=315 end=63412 sample=../Audio/Simple Saw/Simple Saw-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=541 end=62948 sample=../Audio/Simple Saw/Simple Saw-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=428 end=62637 sample=../Audio/Simple Saw/Simple Saw-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=297 sample=../Audio/Simple Saw/Simple Saw-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=499 end=62698 sample=../Audio/Simple Saw/Simple Saw-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=434 end=62662 sample=../Audio/Simple Saw/Simple Saw-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=251 end=62580 sample=../Audio/Simple Saw/Simple Saw-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=268 end=62695 sample=../Audio/Simple Saw/Simple Saw-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=611 end=63480 sample=../Audio/Simple Saw/Simple Saw-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=215 end=63306 sample=../Audio/Simple Saw/Simple Saw-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=603 end=62796 sample=../Audio/Simple Saw/Simple Saw-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=522 end=62996 sample=../Audio/Simple Saw/Simple Saw-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=265 end=62206 sample=../Audio/Simple Saw/Simple Saw-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=302 end=62797 sample=../Audio/Simple Saw/Simple Saw-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=447 end=63275 sample=../Audio/Simple Saw/Simple Saw-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=190 end=62553 sample=../Audio/Simple Saw/Simple Saw-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=228 end=62634 sample=../Audio/Simple Saw/Simple Saw-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=303 sample=../Audio/Simple Saw/Simple Saw-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=624 end=63463 sample=../Audio/Simple Saw/Simple Saw-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=577 end=63312 sample=../Audio/Simple Saw/Simple Saw-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=637 end=63101 sample=../Audio/Simple Saw/Simple Saw-83-127.aif
+<group>lokey=84 hikey=125 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=536 end=63328 sample=../Audio/Simple Saw/Simple Saw-84-127.aif
