@@ -9,6 +9,8 @@ Construction kit made with a Moog Minitaur. A bunch of Saw & Squares in various 
 -   **Audio:**  https://www.dropbox.com/sh/8oqja21uhjkj43f/AADuvsuCrHvX5VFlWQovqDS0a?dl=0
 
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/849209473&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/modularsamples-com" title="modularsamples.com" target="_blank" style="color: #cccccc; text-decoration: none;">modularsamples.com</a> · <a href="https://soundcloud.com/modularsamples-com/moog-minitaur-construction-kit-demo" title="Moog Minitaur Construction Kit Demo" target="_blank" style="color: #cccccc; text-decoration: none;">Moog Minitaur Construction Kit Demo</a></div>
+
 # Loading
 
 **EXS24**
