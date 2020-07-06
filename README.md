@@ -11,11 +11,11 @@ Construction kit made with a Moog Minitaur. A bunch of Saw & Squares in various 
 
 # Loading
 
-**EXS24**
+**Logic Sampler/EXS24**
 
 1. Copy the Audio folder to Music/Audio Music Apps/Samples
 2. Copy the "EXS" folder to Music/Audio Music Apps/Sampler Instruments
-3. Open EXS24 and select "Refresh Library" in the Library pane
+3. Open Logic Pro Sampler/EXS24 and select "Refresh Library" in the Library pane
 4. Select patches under "User Patches" in the library panel 
 
 **Kontakt**
