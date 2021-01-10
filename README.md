@@ -1,4 +1,4 @@
-# Moog MiniTaur Contstruction Kit 
+# Moog MiniTaur Construction Kit 
 
 Construction kit made with a Moog Minitaur. A bunch of Saw & Squares in various configurations allowing you to create your own sounds. 
 
