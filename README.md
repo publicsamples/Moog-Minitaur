@@ -6,7 +6,7 @@ Construction kit made with a Moog Minitaur. A bunch of Saw & Squares in various 
 -   **Formats:** EXS24, Kontakt
 -    **Info:** [moogmusic.com](https://www.moogmusic.com/products/minitaur)
 -    **Demo:** https://soundcloud.com/modularsamples-com/moog-minitaur-construction-kit-demo
-
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/minitaur.html)
 
  **This collection requires you to download the audio seperately**
 
