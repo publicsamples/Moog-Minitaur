@@ -12,7 +12,14 @@ Construction kit made with a Moog Minitaur. A bunch of Saw & Squares in various 
 
 [Download Audio from Dropbox]( https://www.dropbox.com/sh/8oqja21uhjkj43f/AADuvsuCrHvX5VFlWQovqDS0a?dl=0)
 
-
+<div align="center">
+      <a href="https://youtu.be/zZXqe9Xeqk4">
+     <img 
+      src="https://github.com/publicsamples/Moog-Minitaur/raw/master/mt.png" 
+      alt="Video Demo" 
+      style="width:100%;">
+      </a>
+    </div>
 
 # Loading
 
