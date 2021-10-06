@@ -8,9 +8,8 @@ Construction kit made with a Moog Minitaur. A bunch of Saw & Squares in various 
 -    **Demo:** https://soundcloud.com/modularsamples-com/moog-minitaur-construction-kit-demo
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/minitaur.html)
 
- **This collection requires you to download the audio seperately**
+**[Download Audio](https://github.com/publicsamples/Moog-Minitaur/releases/tag/1.0)**
 
-[Download Audio from Dropbox]( https://www.dropbox.com/sh/8oqja21uhjkj43f/AADuvsuCrHvX5VFlWQovqDS0a?dl=0)
 
 <div align="center">
       <a href="https://youtu.be/zZXqe9Xeqk4">
